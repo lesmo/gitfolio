@@ -13,7 +13,7 @@
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("{{{background}}}") center center fixed;
+    url("{{{background}}}") center right fixed;
   --height: 50vh;
 }
 

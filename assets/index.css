@@ -57,7 +57,7 @@ body {
   flex-direction: column;
   justify-content: center;
   text-align: left;
-  background: var(--background-image) center center;
+  background: var(--background-image) center left;
   background-size: cover !important;
   background-repeat: no-repeat;
   position: fixed;
